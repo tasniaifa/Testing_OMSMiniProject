@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-08-20T06:12:33.010117Z</date>
+  <millis>1755670353010</millis>
+  <nanos>117000</nanos>
+  <sequence>0</sequence>
+  <logger>cse430testingproject.PurchaseOrderDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.PurchaseOrderDAO</class>
+  <method>addPurchaseOrder</method>
+  <thread>3</thread>
+  <message>Purchase Order saved successfully. Purchase Order details = PurchaseOrder [poNumber=0, customerNo=101, orderDate=2025-08-09, shipDate=2025-08-13, shipped=false]</message>
+</record>
+<record>
+  <date>2025-08-20T06:12:33.017033Z</date>
+  <millis>1755670353017</millis>
+  <nanos>33000</nanos>
+  <sequence>1</sequence>
+  <logger>cse430testingproject.PurchaseOrderDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.PurchaseOrderDAO</class>
+  <method>getLastInsertID</method>
+  <thread>3</thread>
+  <message>Purchase Order Primary Key = 0</message>
+</record>
+</log>

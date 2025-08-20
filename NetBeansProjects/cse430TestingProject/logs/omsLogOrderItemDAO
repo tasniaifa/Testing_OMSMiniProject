@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-08-20T06:07:37.494183Z</date>
+  <millis>1755670057494</millis>
+  <nanos>183000</nanos>
+  <sequence>0</sequence>
+  <logger>cse430testingproject.StockItemDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.OrderItemDAO</class>
+  <method>updateExisitngOrder</method>
+  <thread>3</thread>
+  <message>Updated the Repeated Order Item Quantity Successfully</message>
+</record>
+<record>
+  <date>2025-08-20T06:07:37.503739Z</date>
+  <millis>1755670057503</millis>
+  <nanos>739000</nanos>
+  <sequence>1</sequence>
+  <logger>cse430testingproject.StockItemDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.OrderItemDAO</class>
+  <method>updateExisitngOrder</method>
+  <thread>3</thread>
+  <message>Updated the Repeated Order Item Quantity Successfully</message>
+</record>
+<record>
+  <date>2025-08-20T06:07:37.507613Z</date>
+  <millis>1755670057507</millis>
+  <nanos>613000</nanos>
+  <sequence>2</sequence>
+  <logger>cse430testingproject.StockItemDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.OrderItemDAO</class>
+  <method>getLastInsertID</method>
+  <thread>3</thread>
+  <message>Order Item Primary Key = 0</message>
+</record>
+<record>
+  <date>2025-08-20T06:07:37.511136Z</date>
+  <millis>1755670057511</millis>
+  <nanos>136000</nanos>
+  <sequence>3</sequence>
+  <logger>cse430testingproject.StockItemDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.OrderItemDAO</class>
+  <method>addOrderItem</method>
+  <thread>3</thread>
+  <message>Order Item saved successfully. Order Item details = cse430testingproject.OrderItem@7bd7d6d6</message>
+</record>
+<record>
+  <date>2025-08-20T06:07:37.513310Z</date>
+  <millis>1755670057513</millis>
+  <nanos>310000</nanos>
+  <sequence>4</sequence>
+  <logger>cse430testingproject.StockItemDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.OrderItemDAO</class>
+  <method>addOrderItem</method>
+  <thread>3</thread>
+  <message>Order Item saved successfully. Order Item details = cse430testingproject.OrderItem@6f204a1a</message>
+</record>
+<record>
+  <date>2025-08-20T06:07:37.516870Z</date>
+  <millis>1755670057516</millis>
+  <nanos>870000</nanos>
+  <sequence>5</sequence>
+  <logger>cse430testingproject.StockItemDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.OrderItemDAO</class>
+  <method>getCustomerPurchaseOrders</method>
+  <thread>3</thread>
+  <message>Purchase Order information with Order Items for Bill Generation Loaded Successfully</message>
+</record>
+<record>
+  <date>2025-08-20T06:07:37.522096Z</date>
+  <millis>1755670057522</millis>
+  <nanos>96000</nanos>
+  <sequence>6</sequence>
+  <logger>cse430testingproject.StockItemDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.OrderItemDAO</class>
+  <method>addOrderItem</method>
+  <thread>3</thread>
+  <message>Order Item saved successfully. Order Item details = cse430testingproject.OrderItem@5b7a7f33</message>
+</record>
+</log>

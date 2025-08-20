@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-08-20T06:04:47.284214Z</date>
+  <millis>1755669887284</millis>
+  <nanos>214000</nanos>
+  <sequence>0</sequence>
+  <logger>cse430testingproject.CustomerDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.CustomerDAO</class>
+  <method>addCustomer</method>
+  <thread>3</thread>
+  <message>Customer saved successfully. Customer details = Customer [customerNo=0, name=Samia Rahman, homePhone=111-222-3333, cellPhone=222-333-4444, workPhone=333-444-5555, street=Aftabnagar, city=Dhaka, state=BD, zip=1205]</message>
+</record>
+<record>
+  <date>2025-08-20T06:04:47.291384Z</date>
+  <millis>1755669887291</millis>
+  <nanos>384000</nanos>
+  <sequence>1</sequence>
+  <logger>cse430testingproject.CustomerDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.CustomerDAO</class>
+  <method>getAllCustomers</method>
+  <thread>3</thread>
+  <message>Customer List:: [Customer [customerNo=1, name=Test Customer, homePhone=null, cellPhone=01700000000, workPhone=null, street=123 Test St, city=Dhaka, state=Dhaka, zip=1230], Customer [customerNo=103, name=Carine Schmitt, homePhone=2319999, cellPhone=8888838383, workPhone=7321456712, street=54, rue Royale, city=Nantes, state=Ouest, zip=44000], Customer [customerNo=104, name=Justin Patel, homePhone=2311123, cellPhone=8887738813, workPhone=9320006718, street=11, Heritage, city=Ponda, state=Goa, zip=403401], Customer [customerNo=108, name=Prerna Desai, homePhone=9564325978, cellPhone=9654875321, workPhone=2229747452, street=99, HarbhajanGunj, city=Srinagar, state=Jammu and Kashmir, zip=297490], Customer [customerNo=172, name=Rahul Sharma, homePhone=08322536498, cellPhone=9881876854, workPhone=08332659845, street=Mangor Hills, city=Vasco, state=Goa, zip=403802], Customer [customerNo=174, name=Kunal Singh, homePhone=08652315468, cellPhone=8652314985, workPhone=02256548654, street=82, Chhaya Nagar, city=Darjeeling, state=West Bengal, zip=734101], Customer [customerNo=175, name=Samia Rahman, homePhone=111-222-3333, cellPhone=222-333-4444, workPhone=333-444-5555, street=Aftabnagar, city=Dhaka, state=BD, zip=1205], Customer [customerNo=178, name=, homePhone=123-456-7890, cellPhone=123-456-7890, workPhone=123-456-7890, street=Unknown, city=Unknown, state=BD, zip=0000], Customer [customerNo=181, name=Swabirah Iffat, homePhone=444-555-6666, cellPhone=555-666-7777, workPhone=666-777-8888, street=456 Park Ave, city=Chittagong, state=BD, zip=4000], Customer [customerNo=219, name=Swabirah Iffat, homePhone=02 988 6723, cellPhone=880 1352 785904, workPhone=880 1912 458970, street=08 Niketan, city=Gulshan 1, state=Dhaka, zip=1212]]</message>
+</record>
+<record>
+  <date>2025-08-20T06:04:47.292664Z</date>
+  <millis>1755669887292</millis>
+  <nanos>664000</nanos>
+  <sequence>2</sequence>
+  <logger>cse430testingproject.CustomerDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.CustomerDAO</class>
+  <method>getCustomerById</method>
+  <thread>3</thread>
+  <message>Customer loaded successfully. Customer details = Customer [customerNo=1, name=Test Customer, homePhone=null, cellPhone=01700000000, workPhone=null, street=123 Test St, city=Dhaka, state=Dhaka, zip=1230]</message>
+</record>
+<record>
+  <date>2025-08-20T06:04:47.294910Z</date>
+  <millis>1755669887294</millis>
+  <nanos>910000</nanos>
+  <sequence>3</sequence>
+  <logger>cse430testingproject.CustomerDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.CustomerDAO</class>
+  <method>addCustomer</method>
+  <thread>3</thread>
+  <message>Customer saved successfully. Customer details = Customer [customerNo=0, name=Samia Rahman, homePhone=111-222-3333, cellPhone=222-333-4444, workPhone=333-444-5555, street=Aftabnagar, city=Dhaka, state=BD, zip=1205]</message>
+</record>
+<record>
+  <date>2025-08-20T06:04:47.296083Z</date>
+  <millis>1755669887296</millis>
+  <nanos>83000</nanos>
+  <sequence>4</sequence>
+  <logger>cse430testingproject.CustomerDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.CustomerDAO</class>
+  <method>getAllCustomers</method>
+  <thread>3</thread>
+  <message>Customer List:: [Customer [customerNo=1, name=Test Customer, homePhone=null, cellPhone=01700000000, workPhone=null, street=123 Test St, city=Dhaka, state=Dhaka, zip=1230], Customer [customerNo=103, name=Carine Schmitt, homePhone=2319999, cellPhone=8888838383, workPhone=7321456712, street=54, rue Royale, city=Nantes, state=Ouest, zip=44000], Customer [customerNo=104, name=Justin Patel, homePhone=2311123, cellPhone=8887738813, workPhone=9320006718, street=11, Heritage, city=Ponda, state=Goa, zip=403401], Customer [customerNo=108, name=Prerna Desai, homePhone=9564325978, cellPhone=9654875321, workPhone=2229747452, street=99, HarbhajanGunj, city=Srinagar, state=Jammu and Kashmir, zip=297490], Customer [customerNo=172, name=Rahul Sharma, homePhone=08322536498, cellPhone=9881876854, workPhone=08332659845, street=Mangor Hills, city=Vasco, state=Goa, zip=403802], Customer [customerNo=174, name=Kunal Singh, homePhone=08652315468, cellPhone=8652314985, workPhone=02256548654, street=82, Chhaya Nagar, city=Darjeeling, state=West Bengal, zip=734101], Customer [customerNo=175, name=Samia Rahman, homePhone=111-222-3333, cellPhone=222-333-4444, workPhone=333-444-5555, street=Aftabnagar, city=Dhaka, state=BD, zip=1205], Customer [customerNo=178, name=, homePhone=123-456-7890, cellPhone=123-456-7890, workPhone=123-456-7890, street=Unknown, city=Unknown, state=BD, zip=0000], Customer [customerNo=181, name=Swabirah Iffat, homePhone=444-555-6666, cellPhone=555-666-7777, workPhone=666-777-8888, street=456 Park Ave, city=Chittagong, state=BD, zip=4000], Customer [customerNo=219, name=Swabirah Iffat, homePhone=02 988 6723, cellPhone=880 1352 785904, workPhone=880 1912 458970, street=08 Niketan, city=Gulshan 1, state=Dhaka, zip=1212]]</message>
+</record>
+<record>
+  <date>2025-08-20T06:04:47.297791Z</date>
+  <millis>1755669887297</millis>
+  <nanos>791000</nanos>
+  <sequence>5</sequence>
+  <logger>cse430testingproject.CustomerDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.CustomerDAO</class>
+  <method>addCustomer</method>
+  <thread>3</thread>
+  <message>Customer saved successfully. Customer details = Customer [customerNo=0, name=Samia Rahman, homePhone=111-222-3333, cellPhone=222-333-4444, workPhone=333-444-5555, street=Aftabnagar, city=Dhaka, state=BD, zip=1205]</message>
+</record>
+<record>
+  <date>2025-08-20T06:04:47.299878Z</date>
+  <millis>1755669887299</millis>
+  <nanos>878000</nanos>
+  <sequence>6</sequence>
+  <logger>cse430testingproject.CustomerDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.CustomerDAO</class>
+  <method>addCustomer</method>
+  <thread>3</thread>
+  <message>Customer saved successfully. Customer details = Customer [customerNo=0, name=null, homePhone=123-456-7890, cellPhone=123-456-7890, workPhone=123-456-7890, street=Unknown, city=Unknown, state=BD, zip=0000]</message>
+</record>
+<record>
+  <date>2025-08-20T06:04:47.301524Z</date>
+  <millis>1755669887301</millis>
+  <nanos>524000</nanos>
+  <sequence>7</sequence>
+  <logger>cse430testingproject.CustomerDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.CustomerDAO</class>
+  <method>addCustomer</method>
+  <thread>3</thread>
+  <message>Customer saved successfully. Customer details = Customer [customerNo=0, name=Samia Rahman, homePhone=111-222-3333, cellPhone=222-333-4444, workPhone=333-444-5555, street=Aftabnagar, city=Dhaka, state=BD, zip=1205]</message>
+</record>
+<record>
+  <date>2025-08-20T06:04:47.303225Z</date>
+  <millis>1755669887303</millis>
+  <nanos>225000</nanos>
+  <sequence>8</sequence>
+  <logger>cse430testingproject.CustomerDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.CustomerDAO</class>
+  <method>getCustomerByMaxPurchaseOrder</method>
+  <thread>3</thread>
+  <message>Customer Number with maximum orders loaded successfully. Customer details = [1]</message>
+</record>
+<record>
+  <date>2025-08-20T06:04:47.305278Z</date>
+  <millis>1755669887305</millis>
+  <nanos>278000</nanos>
+  <sequence>9</sequence>
+  <logger>cse430testingproject.CustomerDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.CustomerDAO</class>
+  <method>addCustomer</method>
+  <thread>3</thread>
+  <message>Customer saved successfully. Customer details = Customer [customerNo=0, name=Samia Rahman, homePhone=111-222-3333, cellPhone=222-333-4444, workPhone=333-444-5555, street=Aftabnagar, city=Dhaka, state=BD, zip=1205]</message>
+</record>
+<record>
+  <date>2025-08-20T06:04:47.306179Z</date>
+  <millis>1755669887306</millis>
+  <nanos>179000</nanos>
+  <sequence>10</sequence>
+  <logger>cse430testingproject.CustomerDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.CustomerDAO</class>
+  <method>addCustomer</method>
+  <thread>3</thread>
+  <message>Customer saved successfully. Customer details = Customer [customerNo=0, name=Swabirah Iffat, homePhone=444-555-6666, cellPhone=555-666-7777, workPhone=666-777-8888, street=456 Park Ave, city=Chittagong, state=BD, zip=4000]</message>
+</record>
+<record>
+  <date>2025-08-20T06:04:47.307157Z</date>
+  <millis>1755669887307</millis>
+  <nanos>157000</nanos>
+  <sequence>11</sequence>
+  <logger>cse430testingproject.CustomerDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.CustomerDAO</class>
+  <method>getAllCustomers</method>
+  <thread>3</thread>
+  <message>Customer List:: [Customer [customerNo=1, name=Test Customer, homePhone=null, cellPhone=01700000000, workPhone=null, street=123 Test St, city=Dhaka, state=Dhaka, zip=1230], Customer [customerNo=103, name=Carine Schmitt, homePhone=2319999, cellPhone=8888838383, workPhone=7321456712, street=54, rue Royale, city=Nantes, state=Ouest, zip=44000], Customer [customerNo=104, name=Justin Patel, homePhone=2311123, cellPhone=8887738813, workPhone=9320006718, street=11, Heritage, city=Ponda, state=Goa, zip=403401], Customer [customerNo=108, name=Prerna Desai, homePhone=9564325978, cellPhone=9654875321, workPhone=2229747452, street=99, HarbhajanGunj, city=Srinagar, state=Jammu and Kashmir, zip=297490], Customer [customerNo=172, name=Rahul Sharma, homePhone=08322536498, cellPhone=9881876854, workPhone=08332659845, street=Mangor Hills, city=Vasco, state=Goa, zip=403802], Customer [customerNo=174, name=Kunal Singh, homePhone=08652315468, cellPhone=8652314985, workPhone=02256548654, street=82, Chhaya Nagar, city=Darjeeling, state=West Bengal, zip=734101], Customer [customerNo=175, name=Samia Rahman, homePhone=111-222-3333, cellPhone=222-333-4444, workPhone=333-444-5555, street=Aftabnagar, city=Dhaka, state=BD, zip=1205], Customer [customerNo=178, name=, homePhone=123-456-7890, cellPhone=123-456-7890, workPhone=123-456-7890, street=Unknown, city=Unknown, state=BD, zip=0000], Customer [customerNo=181, name=Swabirah Iffat, homePhone=444-555-6666, cellPhone=555-666-7777, workPhone=666-777-8888, street=456 Park Ave, city=Chittagong, state=BD, zip=4000], Customer [customerNo=219, name=Swabirah Iffat, homePhone=02 988 6723, cellPhone=880 1352 785904, workPhone=880 1912 458970, street=08 Niketan, city=Gulshan 1, state=Dhaka, zip=1212]]</message>
+</record>
+<record>
+  <date>2025-08-20T06:04:47.308951Z</date>
+  <millis>1755669887308</millis>
+  <nanos>951000</nanos>
+  <sequence>12</sequence>
+  <logger>cse430testingproject.CustomerDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.CustomerDAO</class>
+  <method>addCustomer</method>
+  <thread>3</thread>
+  <message>Customer saved successfully. Customer details = Customer [customerNo=0, name=Samia Rahman, homePhone=111-222-3333, cellPhone=222-333-4444, workPhone=333-444-5555, street=Aftabnagar, city=Dhaka, state=BD, zip=1205]</message>
+</record>
+<record>
+  <date>2025-08-20T06:04:47.309991Z</date>
+  <millis>1755669887309</millis>
+  <nanos>991000</nanos>
+  <sequence>13</sequence>
+  <logger>cse430testingproject.CustomerDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.CustomerDAO</class>
+  <method>getAllCustomers</method>
+  <thread>3</thread>
+  <message>Customer List:: [Customer [customerNo=1, name=Test Customer, homePhone=null, cellPhone=01700000000, workPhone=null, street=123 Test St, city=Dhaka, state=Dhaka, zip=1230], Customer [customerNo=103, name=Carine Schmitt, homePhone=2319999, cellPhone=8888838383, workPhone=7321456712, street=54, rue Royale, city=Nantes, state=Ouest, zip=44000], Customer [customerNo=104, name=Justin Patel, homePhone=2311123, cellPhone=8887738813, workPhone=9320006718, street=11, Heritage, city=Ponda, state=Goa, zip=403401], Customer [customerNo=108, name=Prerna Desai, homePhone=9564325978, cellPhone=9654875321, workPhone=2229747452, street=99, HarbhajanGunj, city=Srinagar, state=Jammu and Kashmir, zip=297490], Customer [customerNo=172, name=Rahul Sharma, homePhone=08322536498, cellPhone=9881876854, workPhone=08332659845, street=Mangor Hills, city=Vasco, state=Goa, zip=403802], Customer [customerNo=174, name=Kunal Singh, homePhone=08652315468, cellPhone=8652314985, workPhone=02256548654, street=82, Chhaya Nagar, city=Darjeeling, state=West Bengal, zip=734101], Customer [customerNo=175, name=Samia Rahman, homePhone=111-222-3333, cellPhone=222-333-4444, workPhone=333-444-5555, street=Aftabnagar, city=Dhaka, state=BD, zip=1205], Customer [customerNo=178, name=, homePhone=123-456-7890, cellPhone=123-456-7890, workPhone=123-456-7890, street=Unknown, city=Unknown, state=BD, zip=0000], Customer [customerNo=181, name=Swabirah Iffat, homePhone=444-555-6666, cellPhone=555-666-7777, workPhone=666-777-8888, street=456 Park Ave, city=Chittagong, state=BD, zip=4000], Customer [customerNo=219, name=Swabirah Iffat, homePhone=02 988 6723, cellPhone=880 1352 785904, workPhone=880 1912 458970, street=08 Niketan, city=Gulshan 1, state=Dhaka, zip=1212]]</message>
+</record>
+<record>
+  <date>2025-08-20T06:04:47.311329Z</date>
+  <millis>1755669887311</millis>
+  <nanos>329000</nanos>
+  <sequence>14</sequence>
+  <logger>cse430testingproject.CustomerDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.CustomerDAO</class>
+  <method>addCustomer</method>
+  <thread>3</thread>
+  <message>Customer saved successfully. Customer details = Customer [customerNo=0, name=Samia Rahman, homePhone=111-222-3333, cellPhone=222-333-4444, workPhone=333-444-5555, street=Aftabnagar, city=Dhaka, state=BD, zip=1205]</message>
+</record>
+<record>
+  <date>2025-08-20T06:04:47.311934Z</date>
+  <millis>1755669887311</millis>
+  <nanos>934000</nanos>
+  <sequence>15</sequence>
+  <logger>cse430testingproject.CustomerDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.CustomerDAO</class>
+  <method>getLastInsertID</method>
+  <thread>3</thread>
+  <message>Customer Primary Key = 0</message>
+</record>
+<record>
+  <date>2025-08-20T06:04:47.313007Z</date>
+  <millis>1755669887313</millis>
+  <nanos>7000</nanos>
+  <sequence>16</sequence>
+  <logger>cse430testingproject.CustomerDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.CustomerDAO</class>
+  <method>addCustomer</method>
+  <thread>3</thread>
+  <message>Customer saved successfully. Customer details = Customer [customerNo=0, name=Samia Rahman, homePhone=111-222-3333, cellPhone=222-333-4444, workPhone=333-444-5555, street=Aftabnagar, city=Dhaka, state=BD, zip=1205]</message>
+</record>
+<record>
+  <date>2025-08-20T06:04:47.314098Z</date>
+  <millis>1755669887314</millis>
+  <nanos>98000</nanos>
+  <sequence>17</sequence>
+  <logger>cse430testingproject.CustomerDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.CustomerDAO</class>
+  <method>addCustomer</method>
+  <thread>3</thread>
+  <message>Customer saved successfully. Customer details = Customer [customerNo=0, name=Samia Rahman, homePhone=111-222-3333, cellPhone=222-333-4444, workPhone=333-444-5555, street=Aftabnagar, city=Dhaka, state=BD, zip=1205]</message>
+</record>
+</log>

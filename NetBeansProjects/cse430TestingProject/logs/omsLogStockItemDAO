@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-08-20T06:15:19.854292Z</date>
+  <millis>1755670519854</millis>
+  <nanos>292000</nanos>
+  <sequence>0</sequence>
+  <logger>cse430testingproject.StockItemDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.StockItemDAO</class>
+  <method>addStockItem</method>
+  <thread>3</thread>
+  <message>Stock Item saved successfully. Stock Item details = cse430testingproject.StockItem@710c2b53</message>
+</record>
+<record>
+  <date>2025-08-20T06:15:19.861495Z</date>
+  <millis>1755670519861</millis>
+  <nanos>495000</nanos>
+  <sequence>1</sequence>
+  <logger>cse430testingproject.StockItemDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.StockItemDAO</class>
+  <method>getAllStockItems</method>
+  <thread>3</thread>
+  <message>Stock Item List:: [cse430testingproject.StockItem@7d900ecf, cse430testingproject.StockItem@6f01b95f, cse430testingproject.StockItem@4007f65e, cse430testingproject.StockItem@1a245833, cse430testingproject.StockItem@673fdbce, cse430testingproject.StockItem@5965d37, cse430testingproject.StockItem@7a5ceedd, cse430testingproject.StockItem@4201c465, cse430testingproject.StockItem@5b799640, cse430testingproject.StockItem@6cb107fd, cse430testingproject.StockItem@710636b0, cse430testingproject.StockItem@3de8f619, cse430testingproject.StockItem@2ab4bc72, cse430testingproject.StockItem@4e5ed836, cse430testingproject.StockItem@eadd4fb, cse430testingproject.StockItem@740fb309, cse430testingproject.StockItem@7bd7d6d6, cse430testingproject.StockItem@43f02ef2]</message>
+</record>
+<record>
+  <date>2025-08-20T06:15:19.863976Z</date>
+  <millis>1755670519863</millis>
+  <nanos>976000</nanos>
+  <sequence>2</sequence>
+  <logger>cse430testingproject.StockItemDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.StockItemDAO</class>
+  <method>getAllStockItems</method>
+  <thread>3</thread>
+  <message>Stock Item List:: [cse430testingproject.StockItem@3ad83a66, cse430testingproject.StockItem@3cce5371, cse430testingproject.StockItem@17bffc17, cse430testingproject.StockItem@6e535154, cse430testingproject.StockItem@15a34df2, cse430testingproject.StockItem@5b38c1ec, cse430testingproject.StockItem@338fc1d8, cse430testingproject.StockItem@4722ef0c, cse430testingproject.StockItem@48e1f6c7, cse430testingproject.StockItem@55cb6996, cse430testingproject.StockItem@1807e3f6, cse430testingproject.StockItem@480d3575, cse430testingproject.StockItem@f1da57d, cse430testingproject.StockItem@194fad1, cse430testingproject.StockItem@26abb146, cse430testingproject.StockItem@72c8e7b, cse430testingproject.StockItem@65f8f5ae, cse430testingproject.StockItem@431cd9b2]</message>
+</record>
+<record>
+  <date>2025-08-20T06:15:19.865704Z</date>
+  <millis>1755670519865</millis>
+  <nanos>704000</nanos>
+  <sequence>3</sequence>
+  <logger>cse430testingproject.StockItemDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.StockItemDAO</class>
+  <method>addStockItem</method>
+  <thread>3</thread>
+  <message>Stock Item saved successfully. Stock Item details = cse430testingproject.StockItem@790da477</message>
+</record>
+<record>
+  <date>2025-08-20T06:15:19.866801Z</date>
+  <millis>1755670519866</millis>
+  <nanos>801000</nanos>
+  <sequence>4</sequence>
+  <logger>cse430testingproject.StockItemDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.StockItemDAO</class>
+  <method>getAllStockItems</method>
+  <thread>3</thread>
+  <message>Stock Item List:: [cse430testingproject.StockItem@57bc27f5, cse430testingproject.StockItem@5fb759d6, cse430testingproject.StockItem@4b8d604b, cse430testingproject.StockItem@5e7cd6cc, cse430testingproject.StockItem@68c9d179, cse430testingproject.StockItem@d554c5f, cse430testingproject.StockItem@2dfaea86, cse430testingproject.StockItem@15888343, cse430testingproject.StockItem@33ecda92, cse430testingproject.StockItem@14fc5f04, cse430testingproject.StockItem@6e2829c7, cse430testingproject.StockItem@3feb2dda, cse430testingproject.StockItem@6a8658ff, cse430testingproject.StockItem@1c742ed4, cse430testingproject.StockItem@333d4a8c, cse430testingproject.StockItem@55de24cc, cse430testingproject.StockItem@dc7df28, cse430testingproject.StockItem@30f842ca]</message>
+</record>
+<record>
+  <date>2025-08-20T06:15:19.868263Z</date>
+  <millis>1755670519868</millis>
+  <nanos>263000</nanos>
+  <sequence>5</sequence>
+  <logger>cse430testingproject.StockItemDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.StockItemDAO</class>
+  <method>addStockItem</method>
+  <thread>3</thread>
+  <message>Stock Item saved successfully. Stock Item details = cse430testingproject.StockItem@7e990ed7</message>
+</record>
+<record>
+  <date>2025-08-20T06:15:19.869737Z</date>
+  <millis>1755670519869</millis>
+  <nanos>737000</nanos>
+  <sequence>6</sequence>
+  <logger>cse430testingproject.StockItemDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.StockItemDAO</class>
+  <method>getAllStockItems</method>
+  <thread>3</thread>
+  <message>Stock Item List:: [cse430testingproject.StockItem@7b4c50bc, cse430testingproject.StockItem@5884a914, cse430testingproject.StockItem@50378a4, cse430testingproject.StockItem@60f00693, cse430testingproject.StockItem@79207381, cse430testingproject.StockItem@491b9b8, cse430testingproject.StockItem@1a4927d6, cse430testingproject.StockItem@7a6d7e92, cse430testingproject.StockItem@aba625, cse430testingproject.StockItem@97e93f1, cse430testingproject.StockItem@5a5a729f, cse430testingproject.StockItem@4b520ea8, cse430testingproject.StockItem@16150369, cse430testingproject.StockItem@6b09fb41, cse430testingproject.StockItem@624ea235, cse430testingproject.StockItem@3932c79a, cse430testingproject.StockItem@782859e, cse430testingproject.StockItem@23f5b5dc]</message>
+</record>
+<record>
+  <date>2025-08-20T06:15:19.871583Z</date>
+  <millis>1755670519871</millis>
+  <nanos>583000</nanos>
+  <sequence>7</sequence>
+  <logger>cse430testingproject.StockItemDAO</logger>
+  <level>INFO</level>
+  <class>cse430testingproject.StockItemDAO</class>
+  <method>getAllStockItems</method>
+  <thread>3</thread>
+  <message>Stock Item List:: [cse430testingproject.StockItem@6f43c82, cse430testingproject.StockItem@5db6b9cd, cse430testingproject.StockItem@210ab13f, cse430testingproject.StockItem@20b2475a, cse430testingproject.StockItem@7857fe2, cse430testingproject.StockItem@6f15d60e, cse430testingproject.StockItem@1be2019a, cse430testingproject.StockItem@29d80d2b, cse430testingproject.StockItem@58e1d9d, cse430testingproject.StockItem@446a1e84, cse430testingproject.StockItem@4f0f2942, cse430testingproject.StockItem@2657d4dd, cse430testingproject.StockItem@5340477f, cse430testingproject.StockItem@47caedad, cse430testingproject.StockItem@7139992f, cse430testingproject.StockItem@69504ae9, cse430testingproject.StockItem@387a8303, cse430testingproject.StockItem@28cda624]</message>
+</record>
+</log>
